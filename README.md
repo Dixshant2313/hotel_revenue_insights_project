@@ -71,3 +71,7 @@ This dataset, along with the Revenue Insights Dashboard, provides a comprehensiv
 - Please refer to individual column descriptions for specific details about each dataset.
 
 For any additional questions or inquiries, please contact dixshantcharan2313@gmail.com.
+
+## Screenshot/Demos
+
+Show what the dashboard looks like. - ![Dashboard Preview](https://github.com/Dixshant2313/hotel_revenue_insights_project/blob/main/image.png)
